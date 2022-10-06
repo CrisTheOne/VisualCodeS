@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "crisapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 8436"
+  },
+  "author": "CrisTheOne",
+  "license": "UNLICENSED",
+  "description": "nothing",
+  "repository": {
+    "type": "git",
+    "url": "anybythemoment"
+  },
+  "keywords": [
+    "123"
+  ]
+}
